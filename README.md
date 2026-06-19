@@ -1,6 +1,6 @@
 # Blazor-Spreadsheet-Examples
 
-This repository contains the examples of Syncfusion&reg; Blazor Spreadsheet Editor (Web) control.
+This repository contains the examples of [Blazor Spreadsheet Editor](https://www.syncfusion.com/spreadsheet-editor-sdk/blazor-spreadsheet-editor)  (Web) control.
 
 ## Key features
 
